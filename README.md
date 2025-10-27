@@ -24,7 +24,6 @@ Tecnologías utilizadas
 
 Deploy
 El sitio puede visualizarse en el siguiente enlace:  
-[https://martinabuenaventura.github.io/hattori-hai](https://martinabuenaventura.github.io/hattori-hai) *(reemplazar con el link real una vez publicado)*
 
 Autor
 Desarrollado por **Martina Buenaventura**  
