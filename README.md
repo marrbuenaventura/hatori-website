@@ -24,6 +24,7 @@ Tecnologías utilizadas
 
 Deploy
 El sitio puede visualizarse en el siguiente enlace:  
+[https://marrbuenaventura.github.io/hatori-website/](https://marrbuenaventura.github.io/hatori-website/)
 
 Autor
 Desarrollado por **Martina Buenaventura**  
